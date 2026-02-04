@@ -1,0 +1,9 @@
+name = "rss-media-proxy"
+compatibility_date = "2026-02-04"
+main = "src/index.js"
+type = "javascript"
+
+# Uncomment and set if you want to bind to a custom domain/route
+# [[routes]]
+# pattern = "media.example.com/*"
+# zone_id = "your-zone-id"
