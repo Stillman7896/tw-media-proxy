@@ -1,4 +1,4 @@
-name = "rss-media-proxy"
+name = "tw-media-proxy"
 compatibility_date = "2026-02-04"
 main = "src/index.js"
 type = "javascript"
